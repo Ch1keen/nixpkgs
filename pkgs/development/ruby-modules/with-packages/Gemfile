@@ -158,6 +158,7 @@ gem 'tty-option'
 gem 'typhoeus'
 gem 'tzinfo'
 gem 'unf_ext'
+gem 'unicorn-engine'
 gem 'uuid4r'
 gem 'whois'
 # gem 'xapian-ruby' doesn't contain ruby code

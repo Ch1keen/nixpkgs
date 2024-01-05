@@ -3910,6 +3910,16 @@
     };
     version = "2.5.0";
   };
+  unicorn-engine = {
+    groups = ["default"];
+    platforms = [];
+    source = {
+      remotes = ["https://rubygems.org"];
+      sha256 = "1fzg9wjnv2igrh72h3jpqyprs8k50fa0958xzgcbn7n160q72773";
+      type = "gem";
+    };
+    version = "1.0.1";
+  };
   uuid4r = {
     groups = ["default"];
     platforms = [];
